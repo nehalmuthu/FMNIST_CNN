@@ -7,6 +7,6 @@ CNN architectures on FMNIST data
 - AlexNet
 
 # Data: 
-- FMNIST
+FMNIST
 
 
